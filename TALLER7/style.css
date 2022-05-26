@@ -1,3 +1,18 @@
 .titulo{
     color: blue;
 }
+.negrita{
+    font-weight: bold;
+}
+.lista{
+    color: blueviolet;
+}
+li.cumplido#almuer{
+    visibility:collapse;
+}
+.cumplido{
+    background-color: green;
+}
+.fallido{
+    background-color: red;
+}
